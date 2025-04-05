@@ -7,12 +7,12 @@
   "theme_color": "#4361ee",
   "icons": [
     {
-      "src": "assets/barrel-192.png",
+      "src": "barrel-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "assets/barrel-512.png",
+      "src": "barrel-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
